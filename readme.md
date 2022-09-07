@@ -37,7 +37,7 @@
 - [kubernetes-demo](https://github.com/INT2ECALL/kubernetes-demo) - Rules based tool to certify Helm charts
 
 ### 红队工具
-- [shiro_attack](https://github.com/j1anFen/shiro_attack) - 利用shiro反序列化漏洞进行回显命令执行以及注入各类内存马
+- [CDK](https://github.com/cdk-team/CDK) - Zero Dependency Container Penetration Toolkit
 
 
 
