@@ -46,6 +46,9 @@
 
 ### 供应链安全
 - [cosign](https://github.com/sigstore/cosign) - Container Signing, Verification and Storage in an OCI registry.
+
+### 防护设备
+- [neuvector](https://github.com/neuvector/neuvector) - NeuVector Full Lifecycle Container Security Platform delivers the only cloud-native security with uncompromising end-to-end protection from DevOps vulnerability protection to automated run-time security, and featuring a true Layer 7 container firewall.
 - 
 ### 红队工具
 - [CDK](https://github.com/cdk-team/CDK) - Zero Dependency Container Penetration Toolkit
