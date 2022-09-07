@@ -32,6 +32,7 @@
 - [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
 - [trivy](https://github.com/aquasecurity/trivy) - Docker containers vulnerability scan
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - kube-bench is a tool that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark.
+- [tfsec](https://github.com/aquasecurity/tfsec) - tfsec uses static analysis of your terraform code to spot potential misconfigurations.
 
 
 ### IAC用例
