@@ -11,6 +11,7 @@
 - [蓝队](#蓝队)
     - [工具](#工具)
         - [IAC扫描](#IAC扫描)
+        - [供应链防护](#IAC扫描)
 
 - [红队](#红队)
     - [工具](#IAC扫描)
@@ -40,10 +41,17 @@
 - [terraform-examples](https://github.com/futurice/terraform-examples) - Rules based tool to certify Helm charts
 - [kubernetes-demo](https://github.com/INT2ECALL/kubernetes-demo) - Rules based tool to certify Helm charts
 
+### IAC用例
+- [cosign](https://github.com/sigstore/cosign) - Container Signing, Verification and Storage in an OCI registry.
+
+### 供应链安全
+- [cosign](https://github.com/sigstore/cosign) - Container Signing, Verification and Storage in an OCI registry.
+- 
 ### 红队工具
 - [CDK](https://github.com/cdk-team/CDK) - Zero Dependency Container Penetration Toolkit
 
-
+### 云原生相关工具
+- [CDK](https://github.com/cdk-team/CDK) - Zero Dependency Container Penetration Toolkit
 
 # 交流讨论
 
