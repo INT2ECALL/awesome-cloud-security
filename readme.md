@@ -7,9 +7,14 @@
 # 索引
 
 - [文章](#文章)
-- [红队](#工具)
-    - [IAC扫描](#IAC扫描)
-- [蓝队](#查杀工具)
+
+- [蓝队](#蓝队)
+    - [工具](#工具)
+        - [IAC扫描](#IAC扫描)
+
+- [红队](#红队)
+    - [工具](#IAC扫描)
+
 
 - [交流讨论](#交流讨论)
 
@@ -23,13 +28,13 @@
 ## 蓝队工具
 
 ### IAC扫描
-
-- [memShell](https://github.com/rebeyond/memShell) - a webshell resides in the memory of java web server
+- [chart-verifier](https://github.com/redhat-certification/chart-verifier) - Rules based tool to certify Helm charts
+- [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
 
 
 ### 红队工具
 - [shiro_attack](https://github.com/j1anFen/shiro_attack) - 利用shiro反序列化漏洞进行回显命令执行以及注入各类内存马
-- [Dr4gonSword](https://github.com/ccdr4gon/Dr4gonSword) - 内存马利用工具
+
 
 
 # 交流讨论
