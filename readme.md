@@ -34,6 +34,7 @@
 
 ### IAC用例
 - [terraform-examples](https://github.com/futurice/terraform-examples) - Rules based tool to certify Helm charts
+- [kubernetes-demo](https://github.com/INT2ECALL/kubernetes-demo) - Rules based tool to certify Helm charts
 
 ### 红队工具
 - [shiro_attack](https://github.com/j1anFen/shiro_attack) - 利用shiro反序列化漏洞进行回显命令执行以及注入各类内存马
