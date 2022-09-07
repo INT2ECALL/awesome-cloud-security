@@ -30,7 +30,9 @@
 ### IAC扫描
 - [chart-verifier](https://github.com/redhat-certification/chart-verifier) - Rules based tool to certify Helm charts
 - [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
-- [terraform-examples](https://github.com/aquasecurity/trivy) - Trivy (tri pronounced like trigger, vy pronounced like envy) is a comprehensive security scanner. It is reliable, fast, extremely easy to use, and it works wherever you need it.
+- [trivy](https://github.com/aquasecurity/trivy) - Docker containers vulnerability scan
+- [kube-bench](https://github.com/aquasecurity/kube-bench) - kube-bench is a tool that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark.
+
 
 ### IAC用例
 - [terraform-examples](https://github.com/futurice/terraform-examples) - Rules based tool to certify Helm charts
