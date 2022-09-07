@@ -30,7 +30,10 @@
 ### IAC扫描
 - [chart-verifier](https://github.com/redhat-certification/chart-verifier) - Rules based tool to certify Helm charts
 - [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
+- [terraform-examples](https://github.com/aquasecurity/trivy) - Trivy (tri pronounced like trigger, vy pronounced like envy) is a comprehensive security scanner. It is reliable, fast, extremely easy to use, and it works wherever you need it.
 
+### IAC用例
+- [terraform-examples](https://github.com/futurice/terraform-examples) - Rules based tool to certify Helm charts
 
 ### 红队工具
 - [shiro_attack](https://github.com/j1anFen/shiro_attack) - 利用shiro反序列化漏洞进行回显命令执行以及注入各类内存马
