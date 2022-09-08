@@ -28,7 +28,13 @@
 - [K8s提权之RBAC权限滥用](https://xz.aliyun.com/t/11476)
 - [云原生之Kubernetes安全](https://xz.aliyun.com/t/10745)
 - [浅谈云安全之K8S](https://www.anquanke.com/post/id/245526)
-- [浅谈云安全之K8S](https://www.anquanke.com/post/id/247989)
+- [K8S Runtime入侵检测之Falco](https://www.anquanke.com/post/id/247989)
+- [浅谈云安全之K8S](https://www.anquanke.com/post/id/179623)
+- [RunC TOCTOU逃逸CVE-2021-30465分析](https://www.anquanke.com/post/id/250747)
+- [docker 利用特权模式逃逸并拿下主机](https://www.anquanke.com/post/id/272400)
+- [【技术分享】利用Dirty Cow实现docker逃逸（附演示视频）](https://www.anquanke.com/post/id/84866)
+- [2022云原生安全发展24个洞见](https://www.anquanke.com/post/id/273726)
+- [Docker逃逸初探](https://www.anquanke.com/post/id/179623)
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
