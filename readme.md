@@ -24,7 +24,11 @@
 
 ## 文章
 
-- [一文看懂内存马](https://www.freebuf.com/articles/web/274466.html)
+- [【云攻防系列】从攻击者视角聊聊K8S集群安全（上）](https://xz.aliyun.com/t/11495)
+- [K8s提权之RBAC权限滥用](https://xz.aliyun.com/t/11476)
+- [云原生之Kubernetes安全](https://xz.aliyun.com/t/10745)
+- [浅谈云安全之K8S](https://www.anquanke.com/post/id/245526)
+- [浅谈云安全之K8S](https://www.anquanke.com/post/id/247989)
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
@@ -54,7 +58,8 @@
 
 ### 防护设备
 - [neuvector](https://github.com/neuvector/neuvector) - NeuVector Full Lifecycle Container Security Platform delivers the only cloud-native security with uncompromising end-to-end protection from DevOps vulnerability protection to automated run-time security, and featuring a true Layer 7 container firewall.
-- 
+- [cilium](https://github.com/cilium/cilium) - Cilium is a networking, observability, and security solution with an eBPF-based dataplane. It provides a simple flat Layer 3 network with the ability to span multiple clusters in either a native routing or overlay mode. It is L7-protocol aware and can enforce network policies on L3-L7 using an identity based security model that is decoupled from network addressing.
+
 ### 红队工具
 - [CDK](https://github.com/cdk-team/CDK) - Zero Dependency Container Penetration Toolkit
 
