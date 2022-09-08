@@ -26,6 +26,8 @@
 
 - [一文看懂内存马](https://www.freebuf.com/articles/web/274466.html)
 
+## 资料
+- [k8s包管理工具helm中文文档](https://www.zhaowenyu.com/helm-doc/)
 
 ## 蓝队工具
 
