@@ -35,6 +35,8 @@
 - [【技术分享】利用Dirty Cow实现docker逃逸（附演示视频）](https://www.anquanke.com/post/id/84866)
 - [2022云原生安全发展24个洞见](https://www.anquanke.com/post/id/273726)
 - [Docker逃逸初探](https://www.anquanke.com/post/id/179623)
+- [K8s污点容忍度横向主节点](https://blog.csdn.net/weixin_40418457/article/details/125311021)
+
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
