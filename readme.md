@@ -69,7 +69,7 @@
 
 ### 供应链安全
 - [cosign](https://github.com/sigstore/cosign) - Container Signing, Verification and Storage in an OCI registry.
-- [cosign](https://github.com/jeremylong/DependencyCheck) - Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project's dependencies. It does this by determining if there is a Common Platform Enumeration (CPE) identifier for a given dependency. If found, it will generate a report linking to the associated CVE entries.
+- [DependencyCheck](https://github.com/jeremylong/DependencyCheck) - Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project's dependencies. It does this by determining if there is a Common Platform Enumeration (CPE) identifier for a given dependency. If found, it will generate a report linking to the associated CVE entries.
 
 ### 防护设备
 - [neuvector](https://github.com/neuvector/neuvector) - NeuVector Full Lifecycle Container Security Platform delivers the only cloud-native security with uncompromising end-to-end protection from DevOps vulnerability protection to automated run-time security, and featuring a true Layer 7 container firewall.
