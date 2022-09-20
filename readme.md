@@ -84,6 +84,8 @@
 ### 靶场
 - [靶场](https://github.com/Metarget/metarget) - 自动化搭建从简单到复杂的脆弱云原生靶机环境。
 
+### 防护软件
+- [HummerRisk](https://github.com/HummerRisk/HummerRisk) - 自动化搭建从简单到复杂的脆弱云原生靶机环境
 
 # 交流讨论
 
