@@ -14,7 +14,7 @@
         - [IAC用例](#IAC用例)
         - [基线扫描](#基线扫描)
         - [供应链安全](#供应链安全)
-        - [防护软件](#防护软件)
+        - [开源防护软件](#开源防护软件)
 - [红队](#红队)
     - [工具](#工具)
 
@@ -71,10 +71,10 @@
 - [cosign](https://github.com/sigstore/cosign) - Container Signing, Verification and Storage in an OCI registry.
 - [DependencyCheck](https://github.com/jeremylong/DependencyCheck) - Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project's dependencies. It does this by determining if there is a Common Platform Enumeration (CPE) identifier for a given dependency. If found, it will generate a report linking to the associated CVE entries.
 
-### 防护设备
+### 开源防护软件
 - [neuvector](https://github.com/neuvector/neuvector) - NeuVector Full Lifecycle Container Security Platform delivers the only cloud-native security with uncompromising end-to-end protection from DevOps vulnerability protection to automated run-time security, and featuring a true Layer 7 container firewall.
 - [cilium](https://github.com/cilium/cilium) - Cilium is a networking, observability, and security solution with an eBPF-based dataplane. It provides a simple flat Layer 3 network with the ability to span multiple clusters in either a native routing or overlay mode. It is L7-protocol aware and can enforce network policies on L3-L7 using an identity based security model that is decoupled from network addressing.
-
+- [HummerRisk](https://github.com/HummerRisk/HummerRisk) - 自动化搭建从简单到复杂的脆弱云原生靶机环境
 ### 红队工具
 - [CDK](https://github.com/cdk-team/CDK) - Zero Dependency Container Penetration Toolkit
 
@@ -83,9 +83,6 @@
 
 ### 靶场
 - [靶场](https://github.com/Metarget/metarget) - 自动化搭建从简单到复杂的脆弱云原生靶机环境。
-
-### 防护软件
-- [HummerRisk](https://github.com/HummerRisk/HummerRisk) - 自动化搭建从简单到复杂的脆弱云原生靶机环境
 
 # 交流讨论
 
