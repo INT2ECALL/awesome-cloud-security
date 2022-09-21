@@ -43,6 +43,7 @@
 - [记录一次平平无奇的云上攻防过程](https://zone.huoxian.cn/d/2557)
 - [浅谈Service Mesh体系中的Envoy](https://developer.aliyun.com/article/606655)
 - [Envoy原理介绍及线上问题踩坑](https://istio.io/latest/zh/blog/2021/istiomeetups-china-report/IstioMeetupChina-EnvoyPrincipleIntroductionAndOnlineProblemPit.pdf)
+- [自动化挖掘gRPC网络接口漏洞](https://mp.weixin.qq.com/s/WzzCFQBgg7BcVUFWT8npuQ)
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
