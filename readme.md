@@ -68,6 +68,8 @@
 ### IAC用例
 - [terraform-examples](https://github.com/futurice/terraform-examples) - Rules based tool to certify Helm charts
 - [kubernetes-demo](https://github.com/INT2ECALL/kubernetes-demo) - kubernetes-demo
+- [helm-charts-examples](https://github.com/gusakk/helm-charts-examples) - helm-charts-examples
+
 
 ### 基线检测
 - [docker-bench](https://github.com/aquasecurity/docker-bench) - Docker-bench is a Go application that checks whether Docker is deployed securely by running the checks documented in the CIS Docker Benchmark.
