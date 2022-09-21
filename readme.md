@@ -45,6 +45,7 @@
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
 - [k8s包管理工具helm中文文档](https://www.zhaowenyu.com/helm-doc/)
+- [Envoy 中文指南](https://icloudnative.io/envoy-handbook/)
 
 ## 蓝队工具
 
