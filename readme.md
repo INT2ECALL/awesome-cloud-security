@@ -42,6 +42,8 @@
 - [K8s污点容忍度横向主节点](https://blog.csdn.net/weixin_40418457/article/details/125311021)
 - [记录一次平平无奇的云上攻防过程](https://zone.huoxian.cn/d/2557)
 
+- [浅谈Service Mesh体系中的Envoy](https://developer.aliyun.com/article/606655)
+
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
 - [k8s包管理工具helm中文文档](https://www.zhaowenyu.com/helm-doc/)
