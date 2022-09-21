@@ -72,6 +72,8 @@
 - [kubernetes-demo](https://github.com/INT2ECALL/kubernetes-demo) - kubernetes-demo
 - [helm-charts-examples](https://github.com/gusakk/helm-charts-examples) - helm-charts-examples
 
+### 规则集
+- [defsec](https://github.com/aquasecurity/defsec) - DefSec is a collection of Infrastructure-as-Code rules.
 
 ### 基线检测
 - [docker-bench](https://github.com/aquasecurity/docker-bench) - Docker-bench is a Go application that checks whether Docker is deployed securely by running the checks documented in the CIS Docker Benchmark.
