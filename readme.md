@@ -41,8 +41,8 @@
 - [Docker逃逸初探](https://www.anquanke.com/post/id/179623)
 - [K8s污点容忍度横向主节点](https://blog.csdn.net/weixin_40418457/article/details/125311021)
 - [记录一次平平无奇的云上攻防过程](https://zone.huoxian.cn/d/2557)
-
 - [浅谈Service Mesh体系中的Envoy](https://developer.aliyun.com/article/606655)
+- [Envoy原理介绍及线上问题踩坑](https://istio.io/latest/zh/blog/2021/istiomeetups-china-report/IstioMeetupChina-EnvoyPrincipleIntroductionAndOnlineProblemPit.pdf)
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
