@@ -46,6 +46,7 @@
 - [从零开始的Kubernetes攻防](https://mp.weixin.qq.com/s/WzzCFQBgg7BcVUFWT8npuQ)
 - [自动化挖掘gRPC网络接口漏洞](https://github.com/INT2ECALL/my-re0-k8s-security)
 - [envoy代理下使用wasm开发WAF](https://www.freebuf.com/articles/web/286857.html)
+- [Extending Envoy Proxy - WASM Filter with Golang](https://medium.com/trendyol-tech/extending-envoy-proxy-wasm-filter-with-golang-9080017f28ea)
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
