@@ -43,8 +43,8 @@
 - [记录一次平平无奇的云上攻防过程](https://zone.huoxian.cn/d/2557)
 - [浅谈Service Mesh体系中的Envoy](https://developer.aliyun.com/article/606655)
 - [Envoy原理介绍及线上问题踩坑](https://istio.io/latest/zh/blog/2021/istiomeetups-china-report/IstioMeetupChina-EnvoyPrincipleIntroductionAndOnlineProblemPit.pdf)
-- [从零开始的Kubernetes攻防](https://mp.weixin.qq.com/s/WzzCFQBgg7BcVUFWT8npuQ)
-- [自动化挖掘gRPC网络接口漏洞](https://github.com/INT2ECALL/my-re0-k8s-security)
+- [从零开始的Kubernetes攻防](https://github.com/INT2ECALL/my-re0-k8s-security)
+- [自动化挖掘gRPC网络接口漏洞](https://mp.weixin.qq.com/s/WzzCFQBgg7BcVUFWT8npuQ)
 - [envoy代理下使用wasm开发WAF](https://www.freebuf.com/articles/web/286857.html)
 - [Extending Envoy Proxy - WASM Filter with Golang](https://medium.com/trendyol-tech/extending-envoy-proxy-wasm-filter-with-golang-9080017f28ea)
 
