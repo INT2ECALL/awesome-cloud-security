@@ -55,7 +55,7 @@
 
 ## 蓝队工具
 
-### IAC扫描
+### IAC(Infrastructure-as-Code)扫描
 - [chart-verifier](https://github.com/redhat-certification/chart-verifier) - Rules based tool to certify Helm charts
 - [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
 - [trivy](https://github.com/aquasecurity/trivy) - Docker containers vulnerability scan
