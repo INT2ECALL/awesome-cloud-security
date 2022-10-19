@@ -117,6 +117,7 @@
 ### 协议解密
 - [pbtk](https://github.com/marin-m/pbtk) - Protobuf is a serialization format developed by Google and used in an increasing number of Android, web, desktop and more applications. It consists of a language for declaring data structures, which is then compiled to code or another kind of structure depending on the target implementation.
 - [protobuf_decode](https://github.com/oathupdate/protobuf_decode) - decode the protobuf field value without the proto file.
+- [protodec](https://github.com/xiofee/protodec) - util can decode protobuf raw
 
 ### 靶场
 - [靶场](https://github.com/Metarget/metarget) - 自动化搭建从简单到复杂的脆弱云原生靶机环境。
