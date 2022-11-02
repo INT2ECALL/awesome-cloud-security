@@ -90,6 +90,7 @@
 ### 供应链安全
 - [cosign](https://github.com/sigstore/cosign) - Container Signing, Verification and Storage in an OCI registry.
 - [DependencyCheck](https://github.com/jeremylong/DependencyCheck) - Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project's dependencies. It does this by determining if there is a Common Platform Enumeration (CPE) identifier for a given dependency. If found, it will generate a report linking to the associated CVE entries.
+- [kubeclarity](https://github.com/openclarity/kubeclarity) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems. It scans both runtime K8s clusters and CI/CD pipelines for enhanced software supply chain security.
 
 ### WAF
 - [tong](https://github.com/zksauren/tong) - 基于envoy代理下的wasm waf插件
