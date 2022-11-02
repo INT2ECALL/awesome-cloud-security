@@ -96,8 +96,10 @@
 - [tong](https://github.com/zksauren/tong) - 基于envoy代理下的wasm waf插件
 - [envoy-filter-log4shell](https://github.com/codexlynx/envoy-filter-log4shell) - Plugable Envoy WebAssembly L7 (HTTP) firewall to prevent log4shell vulnerability injections.
 - [proxy-wasm-cpp-sdk](https://github.com/proxy-wasm/proxy-wasm-cpp-sdk) - The SDK has dependencies on specific versions of the C++ WebAssembly toolchain Emscripten (https://emscripten.org) and the protobuf library, therefor use of a Docker image is recommended.
+- [coraza-proxy-wasm](https://github.com/corazawaf/coraza-proxy-wasm) - Web Application Firewall WASM filter built on top of Coraza and implementing the proxy-wasm ABI. It can be loaded directly from Envoy or also used as an Istio plugin.
 ### 流量代理
 - [envoy](https://github.com/envoyproxy/envoy) - ENVOY IS AN OPEN SOURCE EDGE AND SERVICE PROXY, DESIGNED FOR CLOUD-NATIVE APPLICATIONS
+
 
 ### 开源防护软件
 - [neuvector](https://github.com/neuvector/neuvector) - NeuVector Full Lifecycle Container Security Platform delivers the only cloud-native security with uncompromising end-to-end protection from DevOps vulnerability protection to automated run-time security, and featuring a true Layer 7 container firewall.
