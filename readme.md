@@ -109,6 +109,7 @@
 
 ### 红队工具
 - [CDK](https://github.com/cdk-team/CDK) - Zero Dependency Container Penetration Toolkit
+- [k0otkit](https://github.com/Metarget/k0otkit) - k0otkit is a universal post-penetration technique which could be used in penetrations against Kubernetes clusters.
 
 ### 云原生相关工具
 - [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data
