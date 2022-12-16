@@ -48,6 +48,7 @@
 - [envoy代理下使用wasm开发WAF](https://www.freebuf.com/articles/web/286857.html)
 - [Extending Envoy Proxy - WASM Filter with Golang](https://medium.com/trendyol-tech/extending-envoy-proxy-wasm-filter-with-golang-9080017f28ea)
 - [k8s攻防脑图](https://github.com/Bywalks/K8s-Mind-Map)
+- [云原生安全攻防 | 使用eBPF逃逸容器技术分析与实践](https://security.tencent.com/index.php/blog/msg/206)
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
