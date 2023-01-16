@@ -50,6 +50,7 @@
 - [Extending Envoy Proxy - WASM Filter with Golang](https://medium.com/trendyol-tech/extending-envoy-proxy-wasm-filter-with-golang-9080017f28ea)
 - [k8s攻防脑图](https://github.com/Bywalks/K8s-Mind-Map)
 - [云原生安全攻防 | 使用eBPF逃逸容器技术分析与实践](https://security.tencent.com/index.php/blog/msg/206)
+- [从攻击者视角聊聊K8S集群安全](https://xz.aliyun.com/t/11652)
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
