@@ -53,6 +53,7 @@
 - [从攻击者视角聊聊K8S集群安全](https://xz.aliyun.com/t/11652)
 - [Security risk analysis for Kubernetes resources](https://github.com/controlplaneio/kubesec)
 - [Secure secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)](https://github.com/shyiko/kubesec)
+- [node-problem-detector](https://github.com/kubernetes/node-problem-detector)
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
