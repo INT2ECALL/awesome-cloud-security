@@ -51,6 +51,9 @@
 - [k8s攻防脑图](https://github.com/Bywalks/K8s-Mind-Map)
 - [云原生安全攻防 | 使用eBPF逃逸容器技术分析与实践](https://security.tencent.com/index.php/blog/msg/206)
 - [从攻击者视角聊聊K8S集群安全](https://xz.aliyun.com/t/11652)
+- [Security risk analysis for Kubernetes resources](https://github.com/controlplaneio/kubesec)
+- [Secure secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)](https://github.com/shyiko/kubesec)
+
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
