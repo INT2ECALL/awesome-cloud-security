@@ -54,6 +54,7 @@
 - [Security risk analysis for Kubernetes resources](https://github.com/controlplaneio/kubesec)
 - [Secure secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)](https://github.com/shyiko/kubesec)
 - [node-problem-detector](https://github.com/kubernetes/node-problem-detector)
+- [云安全架构连载之三-超大型企业混合云安全架构最佳实践](https://mp.weixin.qq.com/s/xkeNxE99ORtVs9EOv0ellQ)
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
