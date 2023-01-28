@@ -62,6 +62,7 @@
 - [dockle](https://github.com/goodwithtech/dockle)
 - [awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security)
 - [rbac-police](https://github.com/PaloAltoNetworks/rbac-police/tree/main/lib)
+- [kubesec](https://github.com/controlplaneio/kubesec)
 
 
 
