@@ -61,6 +61,8 @@
 - [trufflehog](https://github.com/trufflesecurity/trufflehog)
 - [dockle](https://github.com/goodwithtech/dockle)
 - [awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security)
+- [rbac-police](https://github.com/PaloAltoNetworks/rbac-police/tree/main/lib)
+
 
 
 ## 资料
