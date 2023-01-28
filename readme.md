@@ -59,6 +59,8 @@
 - [detect-secrets](https://github.com/Yelp/detect-secrets)
 - [k8s-unused-secret-detector](https://github.com/dtan4/k8s-unused-secret-detector)
 - [trufflehog](https://github.com/trufflesecurity/trufflehog)
+- [dockle](https://github.com/goodwithtech/dockle)
+
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
