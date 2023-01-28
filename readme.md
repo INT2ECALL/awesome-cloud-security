@@ -63,7 +63,7 @@
 - [awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security)
 - [rbac-police](https://github.com/PaloAltoNetworks/rbac-police/tree/main/lib)
 - [kubesec](https://github.com/controlplaneio/kubesec)
-
+- [kubernetes-secrets](https://www.cloudbees.com/videos/kubernetes-secrets)
 
 
 ## 资料
