@@ -56,6 +56,9 @@
 - [node-problem-detector](https://github.com/kubernetes/node-problem-detector)
 - [云安全架构连载之三-超大型企业混合云安全架构最佳实践](https://mp.weixin.qq.com/s/xkeNxE99ORtVs9EOv0ellQ)
 - [kubescape](https://github.com/kubescape/kubescape)
+- [detect-secrets](https://github.com/Yelp/detect-secrets)
+- [k8s-unused-secret-detector](https://github.com/dtan4/k8s-unused-secret-detector)
+
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
