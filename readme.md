@@ -60,6 +60,7 @@
 - [k8s-unused-secret-detector](https://github.com/dtan4/k8s-unused-secret-detector)
 - [trufflehog](https://github.com/trufflesecurity/trufflehog)
 - [dockle](https://github.com/goodwithtech/dockle)
+- [awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security)
 
 
 ## 资料
