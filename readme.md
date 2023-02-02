@@ -68,6 +68,7 @@
 - [Serverless-Goat](https://github.com/OWASP/Serverless-Goat)
 
 
+
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
 - [k8s包管理工具helm中文文档](https://www.zhaowenyu.com/helm-doc/)
@@ -117,6 +118,8 @@
 - [envoy-filter-log4shell](https://github.com/codexlynx/envoy-filter-log4shell) - Plugable Envoy WebAssembly L7 (HTTP) firewall to prevent log4shell vulnerability injections.
 - [proxy-wasm-cpp-sdk](https://github.com/proxy-wasm/proxy-wasm-cpp-sdk) - The SDK has dependencies on specific versions of the C++ WebAssembly toolchain Emscripten (https://emscripten.org) and the protobuf library, therefor use of a Docker image is recommended.
 - [coraza-proxy-wasm](https://github.com/corazawaf/coraza-proxy-wasm) - Web Application Firewall WASM filter built on top of Coraza and implementing the proxy-wasm ABI. It can be loaded directly from Envoy or also used as an Istio plugin.
+- [gotestwaf](https://github.com/wallarm/gotestwaf) - GoTestWAF is a tool for API and OWASP attack simulation that supports a wide range of API protocols including REST, GraphQL, gRPC, WebSockets, SOAP, XMLRPC, and others.
+
 ### 流量代理
 - [envoy](https://github.com/envoyproxy/envoy) - ENVOY IS AN OPEN SOURCE EDGE AND SERVICE PROXY, DESIGNED FOR CLOUD-NATIVE APPLICATIONS
 - [cn-series-helm](https://github.com/PaloAltoNetworks/cn-series-helm) - This repository contains charts and templates for deploying the Palo Alto Networks CN-series containerized firewall using the Helm Package Manager for Kubernetes
