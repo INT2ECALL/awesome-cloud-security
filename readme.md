@@ -66,7 +66,7 @@
 - [kubernetes-secrets](https://www.cloudbees.com/videos/kubernetes-secrets)
 - [cloud att&&ck](https://cloudsec.huoxian.cn/)
 - [Serverless-Goat](https://github.com/OWASP/Serverless-Goat)
-
+- [rbacr](https://github.com/ZhuriLab/rbacr)
 
 
 ## 资料
