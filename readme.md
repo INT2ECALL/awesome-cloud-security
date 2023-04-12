@@ -153,6 +153,10 @@
 ### 公司
 - [deepfence](https://github.com/deepfence) - deppfence
 
+### 漏洞修复
+- [copacetic](https://github.com/project-copacetic/copacetic) - copa is a CLI tool written in Go and based on buildkit that can be used to directly patch container images given the vulnerability scanning results from popular tools like Trivy.
+
+
 # 交流讨论
 
 欢迎关注公众号，一起交流学习。
