@@ -67,7 +67,7 @@
 - [cloud att&&ck](https://cloudsec.huoxian.cn/)
 - [Serverless-Goat](https://github.com/OWASP/Serverless-Goat)
 - [rbacr](https://github.com/ZhuriLab/rbacr)
-
+https://madhuakula.com/kubernetes-goat/docs/owasp-kubernetes-top-ten
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
