@@ -134,6 +134,7 @@ https://madhuakula.com/kubernetes-goat/docs/owasp-kubernetes-top-ten
 - [shovel](https://github.com/SPuerBRead/shovel) - docker escape
 - [CDK](https://github.com/cdk-team/CDK) - Zero Dependency Container Penetration Toolkit
 - [k0otkit](https://github.com/Metarget/k0otkit) - k0otkit is a universal post-penetration technique which could be used in penetrations against Kubernetes clusters.
+- [kubeletctl](https://github.com/cyberark/kubeletctl) - Kubeletctl is a command line tool that implement kubelet's API.
 
 ### 云原生相关工具
 - [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data
