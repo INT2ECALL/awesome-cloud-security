@@ -68,6 +68,8 @@
 - [Serverless-Goat](https://github.com/OWASP/Serverless-Goat)
 - [rbacr](https://github.com/ZhuriLab/rbacr)
 https://madhuakula.com/kubernetes-goat/docs/owasp-kubernetes-top-ten
+https://github.com/hmcts/k8s-env-injector
+https://github.com/ExpediaGroup/kubernetes-sidecar-injector
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
