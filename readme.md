@@ -160,6 +160,11 @@ https://github.com/controlplaneio/badrobot/tree/4e3dae430dab0a9554fe96a97092b71a
 
 ### 公司
 - [deepfence](https://github.com/deepfence) - deppfence
+- [deepfence](https://github.com/deepfence) - wiz
+- [deepfence](https://github.com/deepfence) - paloalto prisma
+- [deepfence](https://github.com/deepfence) - aqua
+- [deepfence](https://github.com/deepfence) - arm
+
 
 ### 漏洞修复
 - [copacetic](https://github.com/project-copacetic/copacetic) - copa is a CLI tool written in Go and based on buildkit that can be used to directly patch container images given the vulnerability scanning results from popular tools like Trivy.
