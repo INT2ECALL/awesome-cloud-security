@@ -158,6 +158,8 @@ https://github.com/controlplaneio/badrobot/tree/4e3dae430dab0a9554fe96a97092b71a
 ### 靶场
 - [靶场](https://github.com/Metarget/metarget) - 自动化搭建从简单到复杂的脆弱云原生靶机环境。
 
+### 监控
+https://pkg.go.dev/k8s.io/utils/inotify#Watcher.AddWatch
 ### 公司
 - [deepfence](https://github.com/deepfence) - deppfence
 - [deepfence](https://github.com/deepfence) - wiz
