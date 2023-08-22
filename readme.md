@@ -67,13 +67,11 @@
 - [cloud att&&ck](https://cloudsec.huoxian.cn/)
 - [Serverless-Goat](https://github.com/OWASP/Serverless-Goat)
 - [rbacr](https://github.com/ZhuriLab/rbacr)
-https://madhuakula.com/kubernetes-goat/docs/owasp-kubernetes-top-ten
-
-https://github.com/hmcts/k8s-env-injector
-
-https://github.com/ExpediaGroup/kubernetes-sidecar-injector
-
-https://github.com/controlplaneio/badrobot/tree/4e3dae430dab0a9554fe96a97092b71ae6591967
+- [owasp-kubernetes-top-ten]([https://github.com/ZhuriLab/rbacr](https://madhuakula.com/kubernetes-goat/docs/owasp-kubernetes-top-ten))
+- [k8s-env-injector](https://github.com/hmcts/k8s-env-injector)
+- [kubernetes-sidecar-injector](https://github.com/ExpediaGroup/kubernetes-sidecar-injector)
+- [vArmor](https://github.com/bytedance/vArmor)
+- [badrobot](https://github.com/controlplaneio/badrobot)
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
