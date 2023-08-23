@@ -132,7 +132,7 @@
 ### 开源防护软件
 - [neuvector](https://github.com/neuvector/neuvector) - NeuVector Full Lifecycle Container Security Platform delivers the only cloud-native security with uncompromising end-to-end protection from DevOps vulnerability protection to automated run-time security, and featuring a true Layer 7 container firewall.
 - [cilium](https://github.com/cilium/cilium) - Cilium is a networking, observability, and security solution with an eBPF-based dataplane. It provides a simple flat Layer 3 network with the ability to span multiple clusters in either a native routing or overlay mode. It is L7-protocol aware and can enforce network policies on L3-L7 using an identity based security model that is decoupled from network addressing.
-- [HummerRisk](https://github.com/HummerRisk/HummerRisk) - 自动化搭建从简单到复杂的脆弱云原生靶机环境
+- [HummerRisk](https://github.com/HummerRisk/HummerRisk) - 检测公有云和云原生安全
 - [curiefense](https://github.com/curiefense/curiefense) - Curiefense is a new application security platform, which protects sites, services, and APIs. It extends Envoy proxy to defend against a variety of threats, including SQL and command injection, cross site scripting (XSS), account takeovers (ATOs), application-layer DDoS, remote file inclusion (RFI), API abuse, and more.
 
 ### 红队工具
