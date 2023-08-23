@@ -72,6 +72,7 @@
 - [kubernetes-sidecar-injector](https://github.com/ExpediaGroup/kubernetes-sidecar-injector)
 - [vArmor](https://github.com/bytedance/vArmor)
 - [badrobot](https://github.com/controlplaneio/badrobot)
+- [prowler](https://github.com/prowler-cloud/prowler) 公有云合规检测工具
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
