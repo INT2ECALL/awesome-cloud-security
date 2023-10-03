@@ -73,7 +73,8 @@
 - [vArmor](https://github.com/bytedance/vArmor)
 - [badrobot](https://github.com/controlplaneio/badrobot)
 - [prowler](https://github.com/prowler-cloud/prowler) 公有云合规检测工具
-- [amicontained](https://github.com/genuinetools/amicontained) 检测系统启动容器后各种能力
+- [amicontained](https://github.com/genuinetools/amicontained) 检测系统启动容器后需要的各种capability
+- [kubehound](https://github.com/DataDog/KubeHound) 
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
