@@ -74,7 +74,8 @@
 - [badrobot](https://github.com/controlplaneio/badrobot)
 - [prowler](https://github.com/prowler-cloud/prowler) 公有云合规检测工具
 - [amicontained](https://github.com/genuinetools/amicontained) 检测系统启动容器后需要的各种capability
-- [kubehound](https://github.com/DataDog/KubeHound) 
+- [kubehound](https://github.com/DataDog/KubeHound)
+- [dagda](https://github.com/eliasgranderubio/dagda)
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
