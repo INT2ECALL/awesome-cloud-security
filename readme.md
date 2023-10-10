@@ -76,6 +76,7 @@
 - [amicontained](https://github.com/genuinetools/amicontained) 检测系统启动容器后需要的各种capability
 - [kubehound](https://github.com/DataDog/KubeHound)
 - [dagda](https://github.com/eliasgranderubio/dagda)
+- [白皮书](https://github.com/cncf/tag-security/blob/017e77ff380e303d80adb78e60a1f262e80df0e8/security-whitepaper/cloud-native-security-whitepaper.md#artifacts--images)
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
