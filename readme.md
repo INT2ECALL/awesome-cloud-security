@@ -77,8 +77,8 @@
 - [kubehound](https://github.com/DataDog/KubeHound)
 - [dagda](https://github.com/eliasgranderubio/dagda)
 - [白皮书](https://github.com/cncf/tag-security/blob/017e77ff380e303d80adb78e60a1f262e80df0e8/security-whitepaper/cloud-native-security-whitepaper.md#artifacts--images)
-- [ccat](https://github.com/INT2ECALL/ccat)
-
+- [ccat](https://github.com/INT2ECALL/ccat) aws镜像投毒
+- [traitor](https://github.com/INT2ECALL/traitor) 容器逃逸，比较特殊的带gtfbin
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
