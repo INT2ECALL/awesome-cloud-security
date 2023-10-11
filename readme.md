@@ -84,7 +84,8 @@
 - [kuasar](https://github.com/kuasar-io/kuasar) 云原生沙箱
 - [vArmor](https://github.com/bytedance/vArmor) 云原生沙箱
 - [k8s攻击手法](https://mp.weixin.qq.com/s/LqSGSWy8FkVXEt4yi0hSww) 云攻防之容器逃逸与k8s攻击手法
-
+- [k8s攻击手法](https://mp.weixin.qq.com/s/0x-m32kz7t5PYtD2DtmElQ) 云攻防之容器逃逸与k8s攻击手法
+- [运营](https://mp.weixin.qq.com/s/2tIcY5VPAyBR-fuUyQkW0A) 容器安全运营
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
