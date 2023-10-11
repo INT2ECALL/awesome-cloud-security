@@ -80,7 +80,11 @@
 - [ccat](https://github.com/INT2ECALL/ccat) aws镜像投毒
 - [traitor](https://github.com/INT2ECALL/traitor) 容器逃逸，比较特殊的带gtfbin
 - [云原生加固白皮书](https://lib.jimmysong.io/kubernetes-hardening-guidance/appendix/j/)
-- [go2seccomp](https://github.com/xfernando/go2seccomp)  
+- [go2seccomp](https://github.com/xfernando/go2seccomp)
+- [kuasar](https://github.com/kuasar-io/kuasar) 云原生沙箱
+- [vArmor](https://github.com/bytedance/vArmor) 云原生沙箱
+- [k8s攻击手法](https://mp.weixin.qq.com/s/LqSGSWy8FkVXEt4yi0hSww) 云攻防之容器逃逸与k8s攻击手法
+
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
