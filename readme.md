@@ -158,8 +158,8 @@
 - [k0otkit](https://github.com/Metarget/k0otkit) - k0otkit is a universal post-penetration technique which could be used in penetrations against Kubernetes clusters.
 - [kubeletctl](https://github.com/cyberark/kubeletctl) - Kubeletctl is a command line tool that implement kubelet's API.
 - [container-escape-check](https://github.com/teamssix/container-escape-check/blob/main/container-escape-check.sh) - docker escape check list
-
-
+- [pacu](https://github.com/RhinoSecurityLabs/pacu) -The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
+- 
 ### 云原生相关工具
 - [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data
 - [ko](https://github.com/ko-build/ko) - ko is a simple, fast container image builder for Go applications.
@@ -188,6 +188,8 @@ https://pkg.go.dev/k8s.io/utils/inotify#Watcher.AddWatch
 ### 漏洞修复
 - [copacetic](https://github.com/project-copacetic/copacetic) - copa is a CLI tool written in Go and based on buildkit that can be used to directly patch container images given the vulnerability scanning results from popular tools like Trivy.
 
+## 靶场
+- [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 
 # 交流讨论
 
