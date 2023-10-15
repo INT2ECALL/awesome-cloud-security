@@ -87,7 +87,7 @@
 - [k8s攻击手法](https://mp.weixin.qq.com/s/0x-m32kz7t5PYtD2DtmElQ) 云攻防之容器逃逸与k8s攻击手法
 - [运营](https://mp.weixin.qq.com/s/2tIcY5VPAyBR-fuUyQkW0A) 容器安全运营
 - [TerraformGoat](https://github.com/INT2ECALL/TerraformGoat) 云安全靶场
-
+- [ScoutSuite](https://github.com/nccgroup/ScoutSuite) Multi-Cloud Security Auditing Tool
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
