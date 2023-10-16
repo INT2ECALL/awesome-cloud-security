@@ -88,6 +88,7 @@
 - [运营](https://mp.weixin.qq.com/s/2tIcY5VPAyBR-fuUyQkW0A) 容器安全运营
 - [TerraformGoat](https://github.com/INT2ECALL/TerraformGoat) 云安全靶场
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite) Multi-Cloud Security Auditing Tool
+- [hubble](https://github.com/cilium/hubble) Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
