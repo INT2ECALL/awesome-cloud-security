@@ -184,7 +184,7 @@ https://pkg.go.dev/k8s.io/utils/inotify#Watcher.AddWatch
 - [deepfence](https://github.com/deepfence) - paloalto prisma
 - [deepfence](https://github.com/deepfence) - aqua
 - [deepfence](https://github.com/deepfence) - arm
-
+https://prowler.pro/
 
 ### 漏洞修复
 - [copacetic](https://github.com/project-copacetic/copacetic) - copa is a CLI tool written in Go and based on buildkit that can be used to directly patch container images given the vulnerability scanning results from popular tools like Trivy.
