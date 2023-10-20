@@ -159,8 +159,9 @@
 - [k0otkit](https://github.com/Metarget/k0otkit) - k0otkit is a universal post-penetration technique which could be used in penetrations against Kubernetes clusters.
 - [kubeletctl](https://github.com/cyberark/kubeletctl) - Kubeletctl is a command line tool that implement kubelet's API.
 - [container-escape-check](https://github.com/teamssix/container-escape-check/blob/main/container-escape-check.sh) - docker escape check list
-- [pacu](https://github.com/RhinoSecurityLabs/pacu) -The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
-- 
+- [pacu](https://github.com/RhinoSecurityLabs/pacu) - The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
+- [cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
+
 ### 云原生相关工具
 - [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data
 - [ko](https://github.com/ko-build/ko) - ko is a simple, fast container image builder for Go applications.
