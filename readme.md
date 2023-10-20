@@ -89,6 +89,7 @@
 - [TerraformGoat](https://github.com/INT2ECALL/TerraformGoat) 云安全靶场
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite) Multi-Cloud Security Auditing Tool
 - [hubble](https://github.com/cilium/hubble) Hubble - Network, Service & Security Observability for Kubernetes using eBPF
+- [teamsix云攻防](https://wiki.teamssix.com/cloudservice/) teamsix的云攻防
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
