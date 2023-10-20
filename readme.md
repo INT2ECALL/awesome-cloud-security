@@ -90,6 +90,7 @@
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite) Multi-Cloud Security Auditing Tool
 - [hubble](https://github.com/cilium/hubble) Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [teamsix云攻防](https://wiki.teamssix.com/cloudservice/) teamsix的云攻防
+- [云顶维护的云安全知识裤](https://github.com/YDCloudSecurity/cloud-security-guides) cloud-security-guides
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
