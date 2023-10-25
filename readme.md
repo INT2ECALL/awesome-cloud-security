@@ -165,6 +165,7 @@
 - [container-escape-check](https://github.com/teamssix/container-escape-check/blob/main/container-escape-check.sh) - docker escape check list
 - [pacu](https://github.com/RhinoSecurityLabs/pacu) - The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
 - [cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
+- [kubeletmein](https://github.com/4ARMED/kubeletmein) - Security testing tool for Kubernetes, abusing kubelet credentials on public cloud providers.
 
 ### 云原生相关工具
 - [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data
