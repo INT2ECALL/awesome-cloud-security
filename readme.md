@@ -93,6 +93,7 @@
 - [云顶维护的云安全知识裤](https://github.com/YDCloudSecurity/cloud-security-guides) cloud-security-guides
 - [splunk account takeover detect](https://play.vidyard.com/e11AWvTmiVxdJrMea7aMsN) account takeover
 - [云原生安全工具](https://cloud.tencent.com/developer/article/1653360?from=15425) 云原生安全工具
+- [peirates](https://github.com/inguardians/peirates) Peirates - Kubernetes Penetration Testing tool
 
 
 ## 资料
