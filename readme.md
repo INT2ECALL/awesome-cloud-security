@@ -95,6 +95,7 @@
 - [云原生安全工具](https://cloud.tencent.com/developer/article/1653360?from=15425) 云原生安全工具
 - [peirates](https://github.com/inguardians/peirates) Peirates - Kubernetes Penetration Testing tool
 - [cncf-security-audits](https://github.com/magnologan/cncf-security-audits) cfcn项目审计
+- [cloudsecurityalliance](https://cloudsecurityalliance.org/) cloudsecurityalliance
 
 
 ## 资料
