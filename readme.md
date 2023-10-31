@@ -96,7 +96,7 @@
 - [peirates](https://github.com/inguardians/peirates) Peirates - Kubernetes Penetration Testing tool
 - [cncf-security-audits](https://github.com/magnologan/cncf-security-audits) cfcn项目审计
 - [cloudsecurityalliance](https://cloudsecurityalliance.org/) cloudsecurityalliance
-
+- [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) my-re0-k8s-security
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
