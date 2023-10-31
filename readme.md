@@ -137,6 +137,7 @@
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - kube-bench is a tool that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark.
 - [docker-bench](https://github.com/aquasecurity/docker-bench) - Docker-bench is a Go application that checks whether Docker is deployed securely by running the checks documented in the CIS Docker Benchmark.
 - [linux-bench](https://github.com/aquasecurity/linux-bench) - Linux-bench is a Go application that checks whether the Linux operating system is configured securely by running the checks documented in the CIS Distribution Independent Linux Benchmark.
+- [containerd-bench-security](https://github.com/nokia/containerd-bench-security) - The Containerd Bench for Security is a script that checks for dozens of common best-practices around deploying containers with containerd in production. The tests are all automated, and are based on the CIS Docker Benchmark v1.3.1.
 
 ### 供应链安全
 - [cosign](https://github.com/sigstore/cosign) - Container Signing, Verification and Storage in an OCI registry.
