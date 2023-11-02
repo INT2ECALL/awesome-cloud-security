@@ -97,6 +97,7 @@
 - [cncf-security-audits](https://github.com/magnologan/cncf-security-audits) cfcn项目审计
 - [cloudsecurityalliance](https://cloudsecurityalliance.org/) cloudsecurityalliance
 - [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) my-re0-k8s-security
+- [other-projects-from-fairwinds](https://rbac-manager.docs.fairwinds.com/#other-projects-from-fairwinds) other-projects-from-fairwinds
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
