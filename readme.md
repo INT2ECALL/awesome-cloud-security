@@ -99,6 +99,8 @@
 - [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) my-re0-k8s-security
 - [other-projects-from-fairwinds](https://rbac-manager.docs.fairwinds.com/#other-projects-from-fairwinds) other-projects-from-fairwinds
 - [enforcing-rbac-in-kubernetes-tutorial](https://loft.sh/blog/enforcing-rbac-in-kubernetes-tutorial/) enforcing-rbac-in-kubernetes-tutorial
+- [云安全攻防在线book](https://lzcloudsecurity.gitbook.io/) 云安全攻防在线book
+
 
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
