@@ -100,6 +100,7 @@
 - [other-projects-from-fairwinds](https://rbac-manager.docs.fairwinds.com/#other-projects-from-fairwinds) other-projects-from-fairwinds
 - [enforcing-rbac-in-kubernetes-tutorial](https://loft.sh/blog/enforcing-rbac-in-kubernetes-tutorial/) enforcing-rbac-in-kubernetes-tutorial
 - [云安全攻防在线book](https://lzcloudsecurity.gitbook.io/) 云安全攻防在线book
+- [云渗透操作系统](https://github.com/RedTeamOperations/RedCloud-OS) 云渗透操作系统
 
 
 ## 资料
