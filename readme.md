@@ -175,6 +175,8 @@
 - [pacu](https://github.com/RhinoSecurityLabs/pacu) - The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
 - [cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
 - [kubeletmein](https://github.com/4ARMED/kubeletmein) - Security testing tool for Kubernetes, abusing kubelet credentials on public cloud providers.
+- [CloudPrivs](https://github.com/AbstractClass/CloudPrivs) - Determine privileges from cloud credentials via brute-force testing
+
 
 ### 云原生相关工具
 - [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data
