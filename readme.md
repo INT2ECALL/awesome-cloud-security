@@ -177,6 +177,7 @@
 - [cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
 - [kubeletmein](https://github.com/4ARMED/kubeletmein) - Security testing tool for Kubernetes, abusing kubelet credentials on public cloud providers.
 - [CloudPrivs](https://github.com/AbstractClass/CloudPrivs) - Determine privileges from cloud credentials via brute-force testing
+- [kubetcd](https://github.com/nccgroup/kubetcd) - etcd后渗透
 
 
 ### 云原生相关工具
