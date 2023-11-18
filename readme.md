@@ -102,6 +102,7 @@
 - [云安全攻防在线book](https://lzcloudsecurity.gitbook.io/) 云安全攻防在线book
 - [云渗透操作系统](https://github.com/RedTeamOperations/RedCloud-OS) 云渗透操作系统
 - [audit2rbac](hhttps://github.com/liggitt/audit2rbac) audit2rbac
+- [rakkess](https://github.com/corneliusweig/rakkess) rakkess
 
 
 ## 资料
