@@ -180,6 +180,8 @@
 - [kubeletmein](https://github.com/4ARMED/kubeletmein) - Security testing tool for Kubernetes, abusing kubelet credentials on public cloud providers.
 - [CloudPrivs](https://github.com/AbstractClass/CloudPrivs) - Determine privileges from cloud credentials via brute-force testing
 - [kubetcd](https://github.com/nccgroup/kubetcd) - etcd后渗透
+- [Nebula](https://github.com/gl4ssesbo1/Nebula) - Nebula is a cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components.
+
 
 
 ### 云原生相关工具
