@@ -103,8 +103,7 @@
 - [云渗透操作系统](https://github.com/RedTeamOperations/RedCloud-OS) 云渗透操作系统
 - [audit2rbac](hhttps://github.com/liggitt/audit2rbac) audit2rbac
 - [rakkess](https://github.com/corneliusweig/rakkess) rakkess
-
-
+- [managed-kubernetes-auditing-toolkit](https://github.com/DataDog/managed-kubernetes-auditing-toolkit) managed-kubernetes-auditing-toolkit
 ## 资料
 - [helm官方文档](https://helm.sh/zh/docs/)
 - [k8s包管理工具helm中文文档](https://www.zhaowenyu.com/helm-doc/)
