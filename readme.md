@@ -105,6 +105,7 @@
 - [rakkess](https://github.com/corneliusweig/rakkess) rakkess
 - [managed-kubernetes-auditing-toolkit](https://github.com/DataDog/managed-kubernetes-auditing-toolkit) managed-kubernetes-auditing-toolkit
 - [botb](https://github.com/brompwnie/botb) botb
+- [Mindmaps](https://github.com/synacktiv/Mindmaps) aws渗透手册
 
 
 ## 资料
