@@ -216,6 +216,7 @@ https://pkg.go.dev/k8s.io/utils/inotify#Watcher.AddWatch
 - [小佑](https://www.dosec.cn/) - 小佑
 - [探针科技](https://www.tensorsecurity.cn/) - 探针科技
 - [neuvecotr](https://www.suse.com/products/neuvector/) - suse neuvector
+- [cloudstrike](https://www.crowdstrike.com/platform/cloud-security/cnapp/) - cloudstrike
 - [prowler](https://prowler.pro/) - cspm prowler
 
 
