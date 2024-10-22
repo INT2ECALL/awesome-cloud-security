@@ -212,7 +212,9 @@ https://pkg.go.dev/k8s.io/utils/inotify#Watcher.AddWatch
 - [deepfence](https://github.com/deepfence) - wiz
 - [deepfence](https://github.com/deepfence) - paloalto prisma
 - [deepfence](https://github.com/deepfence) - aqua
-- [deepfence](https://github.com/deepfence) - arm
+- [deepfence](https://github.com/deepfence) - armo
+- [deepfence](https://github.com/deepfence) - 青藤
+- [deepfence](https://github.com/deepfence) - 小佑，探针
 https://prowler.pro/
 
 ### 漏洞修复
