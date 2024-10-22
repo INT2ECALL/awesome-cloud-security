@@ -208,14 +208,16 @@
 ### 监控
 https://pkg.go.dev/k8s.io/utils/inotify#Watcher.AddWatch
 ### 公司
-- [deepfence](https://github.com/deepfence) - deppfence
-- [deepfence](https://github.com/deepfence) - wiz
-- [deepfence](https://github.com/deepfence) - paloalto prisma
-- [deepfence](https://github.com/deepfence) - aqua
-- [deepfence](https://github.com/deepfence) - armo
-- [deepfence](https://github.com/deepfence) - 青藤
-- [deepfence](https://github.com/deepfence) - 小佑，探针
-https://prowler.pro/
+- [paloalto](https://www.paloaltonetworks.com/prisma/cloud) - paloalto cnapp
+- [wiz](https://www.wiz.io/solutions/cnapp) - wiz
+- [aqua](https://www.aquasec.com/) - aqua
+- [armo](https://www.armosec.io/) - armo
+- [青藤](https://www.qingteng.cn/fc-home.html) - 青藤
+- [小佑](https://www.dosec.cn/) - 小佑
+- [探针科技](https://www.tensorsecurity.cn/) - 探针科技
+- [neuvecotr](https://www.suse.com/products/neuvector/) - suse neuvector
+- [prowler](https://prowler.pro/) - cspm prowler
+
 
 ### 漏洞修复
 - [copacetic](https://github.com/project-copacetic/copacetic) - copa is a CLI tool written in Go and based on buildkit that can be used to directly patch container images given the vulnerability scanning results from popular tools like Trivy.
